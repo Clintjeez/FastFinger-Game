@@ -1,7 +1,6 @@
 {
   "name": "y",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
@@ -11,5 +10,15 @@
   "homepage": "https://clintjeez.github.io/FastFinger-Game",
   "dependencies": {
     "gh-pages": "^2.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clintjeez/FastFinger-Game.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Clintjeez/FastFinger-Game/issues"
+  },
+  "description": ""
 }
