@@ -1,0 +1,15 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://clintjeez.github.io/FastFinger-Game",
+  "dependencies": {
+    "gh-pages": "^2.1.0"
+  }
+}
